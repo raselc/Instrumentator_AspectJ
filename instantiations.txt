@@ -1,0 +1,12 @@
+instance(12578138, 'Catalog', 'Catalog()', 1384232171).
+instance(1693359, 'Terminal', 'Terminal(Catalog)', 1384232171).
+instance(27532487, 'Clerk', 'Clerk(Terminal)', 1384232171).
+instance(27253707, 'BookEntrySession', 'BookEntrySession(Catalog)', 1384232171).
+instance(25268096, 'Book', 'Book(String, String, String, String, String)', 1384232171).
+instance(5746264, 'Book', 'Book(String, String, String, String, String)', 1384232171).
+instance(7859095, 'Catalog', 'Catalog()', 1385263735).
+instance(6141358, 'Terminal', 'Terminal(Catalog)', 1385263735).
+instance(22896671, 'Clerk', 'Clerk(Terminal)', 1385263735).
+instance(1506732, 'BookEntrySession', 'BookEntrySession(Catalog)', 1385263735).
+instance(15999328, 'Book', 'Book(String, String, String, String, String)', 1385263736).
+instance(7819553, 'Book', 'Book(String, String, String, String, String)', 1385263736).

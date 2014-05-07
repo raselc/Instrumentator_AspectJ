@@ -1,0 +1,24 @@
+calls(2372025, Clerk,3974996, Terminal, 'void Terminal.makeNewBookEntry()', 1384232171).
+calls(1506732, Terminal,23603795, BookEntrySession, 'void BookEntrySession.initiate()', 1384232171).
+calls(2372025, Clerk,8032804, Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1384232171).
+calls(1506732, Terminal,2972067, BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1384232171).
+calls(12634293, BookEntrySession,12129459, BookEntrySession, 'boolean BookEntrySession.isComplete()', 1384232171).
+calls(12634293, BookEntrySession,15070318, Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1384232171).
+calls(2372025, Clerk,30913058, Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1384232171).
+calls(1506732, Terminal,8385974, BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1384232171).
+calls(12634293, BookEntrySession,9170930, BookEntrySession, 'boolean BookEntrySession.isComplete()', 1384232171).
+calls(12634293, BookEntrySession,13007496, Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1384232171).
+calls(2372025, Clerk,33074396, Terminal, 'void Terminal.endBookEntry()', 1384232171).
+calls(1506732, Terminal,23119024, BookEntrySession, 'void BookEntrySession.becomeComplete()', 1384232171).
+calls(3974996, Clerk,896033, Terminal, 'void Terminal.makeNewBookEntry()', 1385263735).
+calls(23603795, Terminal,28497887, BookEntrySession, 'void BookEntrySession.initiate()', 1385263735).
+calls(3974996, Clerk,17872448, Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1385263736).
+calls(23603795, Terminal,22544730, BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1385263736).
+calls(12129459, BookEntrySession,16645208, BookEntrySession, 'boolean BookEntrySession.isComplete()', 1385263736).
+calls(12129459, BookEntrySession,17993562, Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1385263736).
+calls(3974996, Clerk,32498805, Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1385263736).
+calls(23603795, Terminal,14454885, BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1385263736).
+calls(12129459, BookEntrySession,20327011, BookEntrySession, 'boolean BookEntrySession.isComplete()', 1385263736).
+calls(12129459, BookEntrySession,9874812, Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1385263736).
+calls(3974996, Clerk,18662247, Terminal, 'void Terminal.endBookEntry()', 1385263736).
+calls(23603795, Terminal,1130533, BookEntrySession, 'void BookEntrySession.becomeComplete()', 1385263736).

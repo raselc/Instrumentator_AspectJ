@@ -1,0 +1,46 @@
+execution(19288329, 'AccessLogger, 'void AccessLogger.before(JoinPoint)', 1384232171).
+execution(9593070, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1384232171).
+execution(22896671, 'Clerk, 'void Clerk.simulateScenario()', 1384232171).
+execution(896033, 'Terminal, 'void Terminal.makeNewBookEntry()', 1384232171).
+execution(28497887, 'Session, 'void Session.initiate()', 1384232171).
+execution(17872448, 'Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1384232171).
+execution(22544730, 'BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1384232171).
+execution(16645208, 'Session, 'boolean Session.isComplete()', 1384232171).
+execution(17667533, 'Security, 'void Security.around(Object, AroundClosure, JoinPoint)', 1384232171).
+execution(17993562, 'Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1384232171).
+execution(15999328, 'AccessLogger, 'void AccessLogger.before(JoinPoint)', 1384232171).
+execution(29045356, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1384232171).
+execution(15430449, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1384232171).
+execution(32498805, 'Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1384232171).
+execution(14454885, 'BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1384232171).
+execution(20327011, 'Session, 'boolean Session.isComplete()', 1384232171).
+execution(18402106, 'Security, 'void Security.around(Object, AroundClosure, JoinPoint)', 1384232171).
+execution(9874812, 'Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1384232171).
+execution(7819553, 'AccessLogger, 'void AccessLogger.before(JoinPoint)', 1384232171).
+execution(24080548, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1384232171).
+execution(21781303, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1384232171).
+execution(18662247, 'Terminal, 'void Terminal.endBookEntry()', 1384232171).
+execution(1130533, 'Session, 'void Session.becomeComplete()', 1384232171).
+execution(9593070, 'AccessLogger, 'void AccessLogger.before(JoinPoint)', 1385263735).
+execution(1693359, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1385263735).
+execution(22130853, 'Clerk, 'void Clerk.simulateScenario()', 1385263735).
+execution(27253707, 'Terminal, 'void Terminal.makeNewBookEntry()', 1385263735).
+execution(8032804, 'Session, 'void Session.initiate()', 1385263735).
+execution(2972067, 'Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1385263736).
+execution(12634293, 'BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1385263736).
+execution(12724795, 'Session, 'boolean Session.isComplete()', 1385263736).
+execution(15070318, 'Security, 'void Security.around(Object, AroundClosure, JoinPoint)', 1385263736).
+execution(25268096, 'Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1385263736).
+execution(29045356, 'AccessLogger, 'void AccessLogger.before(JoinPoint)', 1385263736).
+execution(15430449, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1385263736).
+execution(30913058, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1385263736).
+execution(8385974, 'Terminal, 'void Terminal.addBook(String, String, String, String, String)', 1385263736).
+execution(9170930, 'BookEntrySession, 'void BookEntrySession.makeNewBook(String, String, String, String, String)', 1385263736).
+execution(18402106, 'Session, 'boolean Session.isComplete()', 1385263736).
+execution(13007496, 'Security, 'void Security.around(Object, AroundClosure, JoinPoint)', 1385263736).
+execution(5746264, 'Catalog, 'void Catalog.makeNewBook(String, String, String, String, String)', 1385263736).
+execution(24080548, 'AccessLogger, 'void AccessLogger.before(JoinPoint)', 1385263736).
+execution(21781303, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1385263736).
+execution(33074396, 'AccessLogger, 'void AccessLogger.after(JoinPoint)', 1385263736).
+execution(23119024, 'Terminal, 'void Terminal.endBookEntry()', 1385263736).
+execution(9065142, 'Session, 'void Session.becomeComplete()', 1385263736).

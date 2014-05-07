@@ -1,0 +1,46 @@
+termination('void AccessLogger.before(JoinPoint)', 19288329, 1384232171).
+termination('void AccessLogger.after(JoinPoint)', 9593070, 1384232171).
+termination('void Session.initiate()', 28497887, 1384232171).
+termination('void Terminal.makeNewBookEntry()', 896033, 1384232171).
+termination('boolean Session.isComplete()', 16645208, 1384232171).
+termination('void AccessLogger.before(JoinPoint)', 15999328, 1384232171).
+termination('void AccessLogger.after(JoinPoint)', 29045356, 1384232171).
+termination('void Catalog.makeNewBook(String, String, String, String, String)', 17993562, 1384232171).
+termination('void AccessLogger.after(JoinPoint)', 15430449, 1384232171).
+termination('void Security.around(Object, AroundClosure, JoinPoint)', 17667533, 1384232171).
+termination('void BookEntrySession.makeNewBook(String, String, String, String, String)', 22544730, 1384232171).
+termination('void Terminal.addBook(String, String, String, String, String)', 17872448, 1384232171).
+termination('boolean Session.isComplete()', 20327011, 1384232171).
+termination('void AccessLogger.before(JoinPoint)', 7819553, 1384232171).
+termination('void AccessLogger.after(JoinPoint)', 24080548, 1384232171).
+termination('void Catalog.makeNewBook(String, String, String, String, String)', 9874812, 1384232171).
+termination('void AccessLogger.after(JoinPoint)', 21781303, 1384232171).
+termination('void Security.around(Object, AroundClosure, JoinPoint)', 18402106, 1384232171).
+termination('void BookEntrySession.makeNewBook(String, String, String, String, String)', 14454885, 1384232171).
+termination('void Terminal.addBook(String, String, String, String, String)', 32498805, 1384232171).
+termination('void Session.becomeComplete()', 1130533, 1384232171).
+termination('void Terminal.endBookEntry()', 18662247, 1384232171).
+termination('void Clerk.simulateScenario()', 22896671, 1384232171).
+termination('void AccessLogger.before(JoinPoint)', 9593070, 1385263735).
+termination('void AccessLogger.after(JoinPoint)', 1693359, 1385263735).
+termination('void Session.initiate()', 8032804, 1385263735).
+termination('void Terminal.makeNewBookEntry()', 27253707, 1385263735).
+termination('boolean Session.isComplete()', 12724795, 1385263736).
+termination('void AccessLogger.before(JoinPoint)', 29045356, 1385263736).
+termination('void AccessLogger.after(JoinPoint)', 15430449, 1385263736).
+termination('void Catalog.makeNewBook(String, String, String, String, String)', 25268096, 1385263736).
+termination('void AccessLogger.after(JoinPoint)', 30913058, 1385263736).
+termination('void Security.around(Object, AroundClosure, JoinPoint)', 15070318, 1385263736).
+termination('void BookEntrySession.makeNewBook(String, String, String, String, String)', 12634293, 1385263736).
+termination('void Terminal.addBook(String, String, String, String, String)', 2972067, 1385263736).
+termination('boolean Session.isComplete()', 18402106, 1385263736).
+termination('void AccessLogger.before(JoinPoint)', 24080548, 1385263736).
+termination('void AccessLogger.after(JoinPoint)', 21781303, 1385263736).
+termination('void Catalog.makeNewBook(String, String, String, String, String)', 5746264, 1385263736).
+termination('void AccessLogger.after(JoinPoint)', 33074396, 1385263736).
+termination('void Security.around(Object, AroundClosure, JoinPoint)', 13007496, 1385263736).
+termination('void BookEntrySession.makeNewBook(String, String, String, String, String)', 9170930, 1385263736).
+termination('void Terminal.addBook(String, String, String, String, String)', 8385974, 1385263736).
+termination('void Session.becomeComplete()', 9065142, 1385263736).
+termination('void Terminal.endBookEntry()', 23119024, 1385263736).
+termination('void Clerk.simulateScenario()', 22130853, 1385263736).
